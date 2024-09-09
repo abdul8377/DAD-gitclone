@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/abdul8377/DAD-gitclone.git # ruta del repositorio git as
           searchPaths: config-data
-          default-label: main
+          default-label: master
   security:
     user:
       name: root
